@@ -224,7 +224,7 @@ function's expected behavior.
     `createEmployeeRecord` and accumulates it to a new `Array`
 
 ### `createTimeInEvent`
-
+n
 * **Argument(s)**
   * An employee record `Object`
   * A date stamp (`"YYYY-MM-DD HHMM"`)
